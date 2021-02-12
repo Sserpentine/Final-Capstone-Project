@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
+body{
+    display: flex;
+    flex-direction: column;
+}
+.nav-bar{
+    height: 70px;
+    display: flex;
+    background-color: #BFFCF9;
+    background-size: 70px 1910px;
+}
+
+.nav-bar h2{
+    cursor: pointer;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    margin: 0px auto;
+    align-items: center;
+}
+h1{
+    font-size: 48px;
+    font-family: Sanchez, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+p, a{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+}
+h2{
+    font-size: 30px;
+    font-family: Sanchez, sans-serif;
+    display: flex;
+    justify-content: center;
+}
